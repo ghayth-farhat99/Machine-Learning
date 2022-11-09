@@ -1,6 +1,8 @@
 # Machine-Learning
 
-In this repository i will upload my machine learning work .
+In this repository i will upload my machine learning work :
     -supervised
     -unsupervised
     -by reinforcement
+
+I will create an other repo for DeepLearning :)
