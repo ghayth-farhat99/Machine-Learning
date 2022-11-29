@@ -1,5 +1,4 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
+
 import numpy as np
 
 T=np.array([[0,0,1],[1,1,1],[0,1,0]])
